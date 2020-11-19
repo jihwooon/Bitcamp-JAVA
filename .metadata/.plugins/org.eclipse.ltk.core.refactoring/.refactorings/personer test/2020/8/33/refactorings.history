@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move element &apos;CalculatorEvent.java&apos; to &apos;java08_swing/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;personer test&apos;&#x0D;&#x0A;- Destination element: &apos;java08_swing/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;CalculatorEvent.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=java08_swing/src&lt;" element1="/src&lt;{CalculatorEvent.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1597024345409" units="1" version="1.0"/>
-</session>

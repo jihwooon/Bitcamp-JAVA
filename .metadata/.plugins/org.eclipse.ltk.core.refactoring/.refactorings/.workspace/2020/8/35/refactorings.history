@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete 24 resources" deleteContents="false" description="Delete 24 resources" element1="/chattProject" element10="/java08_1swing" element11="/java08_swing" element12="/java09_io" element13="/java10_thread" element14="/java11_jdbc" element15="/java12_net" element16="/java13_excel" element17="/javaAPI" element18="/LottoOOP" element19="/memberTest" element2="/employee" element20="/MoneyBook" element21="/Personal_Project" element22="/personer test" element23="/RGB" element24="/SwingCalendar" element3="/java_basic" element4="/java02_oop" element5="/java03_oop" element6="/java04_InnerClass" element7="/java05_exception" element8="/java06_collections" element9="/java07_awt" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="24" stamp="1598488392416"/>
-</session>
