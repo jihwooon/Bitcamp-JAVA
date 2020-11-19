@@ -47,6 +47,14 @@ local.properties
 
 # STS (Spring Tool Suite)
 .springBeans
+# Directories #
+/build/
+/bin/
+target/
+ 
+# OS Files #
+.DS_Store
+
 
 # Code Recommenders
 .recommenders/
